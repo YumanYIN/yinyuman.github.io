@@ -1,30 +1,10 @@
-## Who am I ?
+## Yuman YIN
 
 I am a computer science student of engineer school in France. But I come from China and I have received a bachelor of engineering degree at the university of science and technology Beijing in 2018. 
 
 ## Interests
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Yoga and dance.
 
 ### Jekyll Themes
 
