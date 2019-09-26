@@ -1,10 +1,8 @@
-## Welcome to GitHub Pages
+## Who am I ?
 
-You can use the [editor on GitHub](https://github.com/YumanYIN/yumanyin.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I am a computer science student of engineer school in France. But I come from China and I have received a bachelor of engineering degree at the university of science and technology Beijing in 2018. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+## Interests
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
