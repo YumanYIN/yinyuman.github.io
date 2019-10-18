@@ -17,7 +17,7 @@ Education
   * Expected Date of Completion: 2021
 
 * University of Science and Technology Beijing, Beijing, China
-  * Bachelor of Engineering(4-year)
+  * **Bachelor of Engineering**(4-year)
   * Major: Internet of Things
   * GPA: 3.7/4.0
 
@@ -55,7 +55,7 @@ Languages
 * **English**: Excellent working knowledge. TOEIC: 745/990
 * **French**: Very good command and daily conversation. TCF: B2 (431/699)
 
-Acitivities
+Activities
 ======
 * University Project in France
   * Video Recognition: Identify the people position in the video sequence and make a graph to achieve people recognition and tracking.

@@ -1,15 +1,28 @@
-## Yuman YIN
+## About me
 
-I am a computer science student of engineer school in France. But I come from China and I have received a bachelor of engineering degree at the university of science and technology Beijing in 2018. 
+I am now a computer science student of engineer school in France (Polytech Tours). 
+But I come from China and I have received a bachelor of engineering degree at the university of science and technology Beijing in 2018. 
+I'm interested in developping Website.
+I am looking for a three-month internship for the 2020 summer vacation (from June to August).
+If you are interested in me, please don't hesitate to email me. I am always looking forward to your contact.
+
+## Skills
+
+* **Python**
+  * Experience of coding Python in framework of Django for developing a Web Application. School project of programming Video Recognition.
+* **HTML5/CSS3/JavaSrcipt**
+  * Experience of developing a Web Application of CMS and my own website.
+* **PHP, MySQL**
+  * Experience of designing an application similar to Twitter by using PHP and MySQL in school project.
+* **C/C++**
+  * Experience of coding C/C++ in the school project of making graphs and matrices, and implementation of face recognition system in college graduation design
+* **JAVA**
+  * Experience of coding C/C++ in the school project of making graphs and matrices, and implementation of face recognition system in college graduation design
+* **Office tools**
+  * Word, Excel, PowerPoint, Adobe Photoshop, Adobe Illustrator
 
 ## Interests
 
 Yoga and dance.
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/YumanYIN/yumanyin.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.

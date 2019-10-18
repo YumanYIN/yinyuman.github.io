@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Yuman YIN"
   avatar           : "profile2.jpg"
-  bio              : "Computer Science Student who lives in France. Skills: C/C++, Java, Python, HTML5/CSS3/JavaScript"
-  location         : "Tours, France"
+  bio              : "Computer Science Student in Polytech Tours. Skills: C/C++, Java, Python, HTML5/CSS3/JavaScript"
+  location         : "Polytech Tours, France"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    :
