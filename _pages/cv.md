@@ -11,7 +11,8 @@ redirect_from:
 
 Education
 ======
-* École d’ingénieurs Polytechnique de l’Université de Tours(College of Engineering, University of Tours,France)
+* École d’ingénieurs Polytechnique de l’Université de Tours (College of Engineering, University of Tours, France)
+  * **Computer Science**
   * Currently a 4th-year student studying for a Master Degree in Information Technology Engineering
   * Expected Date of Completion: 2021
 
@@ -22,12 +23,12 @@ Education
 
 Work experience
 ======
-* Developer of Web
+* **Developer of Web**
   * Cover France, Tours, France
   * Developer of CMS in website for managing customer information and company document by using Python(Django), HTML, CSS, JavaScript. 
 
 
-* Administrator of Website
+* **Administrator of Website**
   * Beijing Lebo Technology Co., Ltd, Beijing, China
   * Design and edit website content by using PHP, MySQL, HTML.
   * Edit software development documents, software user manuals and patent application materials.
@@ -35,24 +36,24 @@ Work experience
   
 Skills
 ======
-* Python
+* **Python**
   * Experience of coding Python in framework of Django for developing a Web Application. School project of programming Video Recognition.
-* HTML5/CSS3/JavaSrcipt
+* **HTML5/CSS3/JavaSrcipt**
   * Experience of developing a Web Application of CMS and my own website.
-* PHP, MySQL
+* **PHP, MySQL**
   * Experience of designing an application similar to Twitter by using PHP and MySQL in school project.
-* C/C++
+* **C/C++**
   * Experience of coding C/C++ in the school project of making graphs and matrices, and implementation of face recognition system in college graduation design
-* JAVA
+* **JAVA**
   * Experience of coding C/C++ in the school project of making graphs and matrices, and implementation of face recognition system in college graduation design
-* Office tools
+* **Office tools**
   * Word, Excel, PowerPoint, Adobe Photoshop, Adobe Illustrator
 
 Languages
 ======
-* Chinese: Native Language
-* English: Excellent working knowledge. TOEIC: 745/990
-* French: Very good command and daily conversation. TCF: B2 (431/699)
+* **Chinese**: Native Language
+* **English**: Excellent working knowledge. TOEIC: 745/990
+* **French**: Very good command and daily conversation. TCF: B2 (431/699)
 
 Acitivities
 ======
