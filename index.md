@@ -1,10 +1,10 @@
 ## About me
 
-I am now a computer science student of engineer school in France (Polytech Tours). 
-But I come from China and I have received a bachelor of engineering degree at the university of science and technology Beijing in 2018. 
-I'm interested in developping Website.
-I am looking for a three-month internship for the 2020 summer vacation (from June to August).
-If you are interested in me, please don't hesitate to email me. I am always looking forward to your contact.
+* I am now a computer science student of engineer school in France (Polytech Tours). 
+* But I come from China and I have received a bachelor of engineering degree at the university of science and technology Beijing in 2018. 
+* I'm interested in developping Website.
+* I'm looking for a three-month internship for the 2020 summer vacation (from June to August).
+* If you are interested in me, please don't hesitate to email me. I am always looking forward to your contact.
 
 ## Skills
 
